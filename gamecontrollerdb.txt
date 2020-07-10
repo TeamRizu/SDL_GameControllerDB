@@ -3,6 +3,12 @@
 
 # Team Rizu Community Submitted Dance / Rhythm Game Pads
 
+03000000301400008888000000000000,RedOctane USB Pad,dpleft:b0,dpdown:b1,dpup:b2,dpright:b3,y:b4,x:b5,b:b6,a:b7,start:b8,back:b9,platform:Windows,
+03000000300f00000a01000000000000,3 IN 1 Conversion-Box,a:b1,b:b3,x:b0,y:b2,platform:Windows,
+03000000776600001188000000000000,Positive Gaming Impact USB pad,platform:Windows,a:b1,b:b3,x:b0,y:b2,back:b9,start:b8,leftshoulder:b4,rightshoulder:b5,lefttrigger:b6,righttrigger:b7,
+03000000470500000210000000010000,PIUIO input,a:b20,b:b17,x:b19,y:b16,back:b9,guide:b25,start:b14,leftstick:b30,rightstick:b10,leftshoulder:b2,rightshoulder:b18,dpup:b0,dpdown:b4,dpleft:b3,dpright:b1,platform:Linux,
+03000000c4100000c082000000000000,UnoJoy Joystick,platform:Windows,dpup:b3,dpdown:b2,dpleft:b1,dpright:b0,
+03000000790000000600000007010000,DragonRise Inc. Generic USB Joystick,dpup:b2,dpdown:b4,dpleft:b9,dpright:b11,platform:Mac OS X,
 03000000430b00000300000012190000,EMS USB2 Order,leftshoulder:b16,back:b17,rightshoulder:b18,start:b19,leftstick:b24,dpup:b25,rightstick:b26,dpright:b27,lefttrigger:b28,dpdown:b29,righttrigger:b30,dpleft:b31,platform:Mac OS X,
 03000000301400008888000013030000,XBOX DDR,platform:Mac OS X,back:b6,start:b7,dpup:b2,dpdown:b1,dpleft:b0,dpright:b3,-righty:b9,+righty:b8,
 03000000b40400000900000000000000,HAPPY BOY USB,y:b0,dpdown:b1,dpright:b2,back:b3,dpleft:b4,dpup:b5,b:b6,a:b7,start:b8,x:b9,platform:Windows,

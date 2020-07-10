@@ -3,6 +3,10 @@
 
 # Team Rizu Community Submitted Dance / Rhythm Game Pads
 
+03000000430b00000300000012190000,EMS USB2 Order,leftshoulder:b16,back:b17,rightshoulder:b18,start:b19,leftstick:b24,dpup:b25,rightstick:b26,dpright:b27,lefttrigger:b28,dpdown:b29,righttrigger:b30,dpleft:b31,platform:Mac OS X,
+03000000301400008888000013030000,XBOX DDR,platform:Mac OS X,back:b6,start:b7,dpup:b2,dpdown:b1,dpleft:b0,dpright:b3,-righty:b9,+righty:b8,
+03000000b40400000900000000000000,HAPPY BOY USB,y:b0,dpdown:b1,dpright:b2,back:b3,dpleft:b4,dpup:b5,b:b6,a:b7,start:b8,x:b9,platform:Windows,
+0300000053ff00000313000000000000,Precision Dance Pad OmegaTX,platform:Windows,a:b7,b:b6,x:b5,y:b4,back:b8,start:b9,dpup:b0,dpdown:b1,dpleft:b2,dpright:b3,
 03000000790000001100000006010000,D-Force Dance Mat,platform:Mac OS X,a:b7,b:b6,x:b9,dpup:b0,dpdown:b1,dpleft:b2,dpright:b3,
 030000006766000006c0000001010000,Mata taneczna L-TEK,platform:Linux,back:b11,start:b10,dpup:b2,dpdown:b3,dpleft:b0,dpright:b1,
 030000006766000006c0000002010000,Mata taneczna L-TEK,platform:Mac OS X,dpup:b2,dpdown:b3,dpleft:b0,dpright:b1,

@@ -3,6 +3,7 @@
 
 # Team Rizu Community Submitted Dance / Rhythm Game Pads
 
+030000004f040000120f000000000000,Gamesis i-Motion Metal Dance Pad,platform:Windows,a:b2,b:b5,back:b9,start:b8,dpup:b4,dpdown:b0,dpleft:b3,dpright:b1,leftx:a0,lefty:a1,
 03000000301400008888000000000000,RedOctane USB Pad,dpleft:b0,dpdown:b1,dpup:b2,dpright:b3,y:b4,x:b5,b:b6,a:b7,start:b8,back:b9,platform:Windows,
 03000000300f00000a01000000000000,3 IN 1 Conversion-Box,a:b1,b:b3,x:b0,y:b2,platform:Windows,
 03000000776600001188000000000000,Positive Gaming Impact USB pad,platform:Windows,a:b1,b:b3,x:b0,y:b2,back:b9,start:b8,leftshoulder:b4,rightshoulder:b5,lefttrigger:b6,righttrigger:b7,

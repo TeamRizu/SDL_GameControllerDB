@@ -2,6 +2,7 @@
 # Source: https://github.com/gabomdq/SDL_GameControllerDB
 
 # Team Rizu Community Submitted Dance / Rhythm Game Pads
+0300000009d200000115000000000000,Precision Dance Pad,platform:Windows,a:b3,b:b2,x:b4,y:b5,back:b0,start:b1,
 030000004c0500006802000000000000,DDR Game Tough Pad,platform:Windows,a:b13,b:b14,x:b15,y:b12,back:b0,start:b3,dpup:b4,dpdown:b6,dpleft:b7,dpright:b5,
 03000000ab1200000400000000000000,Konami Xbox 360 Wired Dance Pad,platform:Mac OS X,a:b0,b:b1,x:b2,y:b3,back:b9,guide:b10,start:b8,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,
 030000004f040000120f000000000000,Gamesis i-Motion Metal Dance Pad,platform:Windows,a:b2,b:b5,back:b9,start:b8,dpup:b4,dpdown:b0,dpleft:b3,dpright:b1,leftx:a0,lefty:a1,
